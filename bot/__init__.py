@@ -83,12 +83,7 @@ REQD_PERMISSIONS = "https://t.me/SpEcHlDe/857"
 GIT_REPO_LINK = "https://github.com/massimoverogni/DeleteMessagesRoBot"
 """ strings to be used in the bot """
 START_MESSAGE = get_config("START_MESSAGE", (
-    "I'm a bot that can delete <s>all</s> "
-    "your channel or supergroup messages. "
-    "\n\n"
-    f"To use me: read 👉 {REQD_PERMISSIONS} 👈"
-    "\n\n"
-    f"In case of issues, contact 👉 {GIT_REPO_LINK} 👈"
+    "Ciao sono un bot di merda che elimina i messaggi, usa /delall in un gruppo o canale dove sono amministratore e ci siamo capiti. "
 ))
 START_COMMAND = get_config("START_COMMAND", "start")
 DEL_ALL_COMMAND = get_config("DEL_ALL_COMMAND", "delall")
