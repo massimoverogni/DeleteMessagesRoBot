@@ -12,7 +12,7 @@
         "administrators",
         "messages"
     ],
-    "repository": "https://github.com/SpEcHiDe/DeleteMessagesRoBot",
+    "repository": "https://github.com/massimoverogni/DeleteMessagesRoBot",
     "website": "https://telegram.dog/SpEcHlDe",
     "success_url": "https://t.me/SpEcHlDe/857",
     "env": {
